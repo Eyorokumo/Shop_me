@@ -1,0 +1,8 @@
+building an online shop requires nices design and eyecheck stuff
+STEP ON HOW I BULIT THIS  ONLINE_SHOPWITHME SPACE
+*Picture the design or lay it out as a guard.
+** get all images ready
+***Then create an html 5 boilerplate 
+****Create a section, inside the section; create a header. Inside the header,you create your div class where you have your ul and paragraph. Inside the same section, you create another div class where you have a heading and a paragraph 
+*****In the about page, we have a div class; then another div class inside; with another one which contains an image source. In the previous div class, there's also an image source in another div class. The same thing three times before the div class closes.
+******In the product page, there's a div class which contains an heading and a paragraph and another div class with a div class with an image source, heading, paragraph and a lik tag. Then there's another div class with an image source, heading, paragraph and another link tag. The same thing again for another div class.
